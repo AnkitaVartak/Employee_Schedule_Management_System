@@ -1,4 +1,4 @@
-use ist659nvvaze
+use ist659ajvartak
 go
 
 Drop table if exists students
